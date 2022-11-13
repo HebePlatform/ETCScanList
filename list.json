@@ -1,0 +1,42 @@
+{
+  "0xecbcf5c7af4c323947cfe982940ba7c9fd207e2b": {
+    "name": "HebeswapV2Router02",
+    "links": {
+      "web": "https://hebeswap.com",
+      "twitter": "https://twitter.com/BlockHebe",
+      "discord": "https://discord.gg/HFBUJ3AKFT",
+      "telegram": "https://t.me/hebeOffice",
+      "email": "hebeblock@gmail.com"
+    }
+  },
+  "0x88d8c3dc6b5324f34e8cf229a93e197048671abd": {
+    "name": "Hebe Wallet",
+    "links": {
+      "web": "https://hebeswap.com",
+      "twitter": "https://twitter.com/BlockHebe",
+      "discord": "https://discord.gg/HFBUJ3AKFT",
+      "telegram": "https://t.me/hebeOffice",
+      "email": "hebeblock@gmail.com"
+    }
+  },
+  "0x03f4a95d964d364614e514e8638d61cdeed4f8d4": {
+    "name": "HEBE ENS NFT",
+    "symbol": "HENS",
+    "links": {
+      "web": "https://app.hens.domains",
+      "twitter": "https://twitter.com/BlockHebe",
+      "discord": "https://discord.gg/HFBUJ3AKFT",
+      "telegram": "https://t.me/hebeOffice",
+      "email": "hebeblock@gmail.com"
+    }
+  },
+  "0x07c59be1b8a37e615c010013eaa8ef8744a3b99b": {
+    "name": "HEBE Token Uncirculated "
+  },
+  "0x1bb735a0b2a3537f9dc5e33210a7a6fffb45f786": {
+    "name": "MEXC"
+  },
+  "0x3db3d728b8783656b83c3cb8edc1481ec3c62f82": {
+    "name": "Etc Grants Dao"
+  }
+}
