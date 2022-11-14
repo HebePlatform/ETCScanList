@@ -30,6 +30,17 @@
       "email": "hebeblock@gmail.com"
     }
   },
+  "0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1": {
+    "name": "Shiba Classic",
+    "symbol": "SHIBC",
+    "links": {
+      "web": "https://shibaclassic.sc",
+      "twitter": "https://twitter.com/shibctokenetc",
+      "discord": "https://discord.gg/Rz7bN3ZaeM",
+      "telegram": "https://t.me/ShibCtokenERC",
+      "email": "shibaclassicetc@gmail.com"
+    }
+  },
   "0x07c59be1b8a37e615c010013eaa8ef8744a3b99b": {
     "name": "Hebe Token Uncirculated "
   },
