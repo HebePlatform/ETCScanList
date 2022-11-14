@@ -39,7 +39,10 @@
   "0x3db3d728b8783656b83c3cb8edc1481ec3c62f82": {
     "name": "Etc Grants Dao"
   },
+  "0x66f82becae07aa9ae95bf92aca888ab185ef70c2": {
+    "name": "Huobi 1"
+  },
   "0xd4e36ae112915c9b18700505ee5898b562af5d4d": {
-    "name": "Binance"
+    "name": "Huobi 2"
   }
 }
