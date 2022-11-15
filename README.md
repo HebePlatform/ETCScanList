@@ -1,6 +1,6 @@
 # ETCScanList
 
-https://etcscan.etcdesktop.com
+https://etcerscan.com
 
 Used for address translation readable names in etcscan
 
