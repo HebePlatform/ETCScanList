@@ -42,11 +42,11 @@
       "email": "shibaclassicetc@gmail.com"
     }
   },
-  "0x4499Ed0A00EaF71794142a22D052d9361cB5F1Ae": {
+  "0x4499ed0a00eaf71794142a22d052d9361cb5f1ae": {
     "name": "Kingers",
     "symbol": "KNGR",
     "links": {
-      "web": "https://kingers.eth.limo,
+      "web": "https://kingers.eth.limo",
       "twitter": "https://twitter.com/shibcmemes",
       "discord": "https://discord.gg/dvwbwrrAEU",
       "telegram": "https://t.me/KingersDAO",
@@ -73,5 +73,11 @@
   },
   "0x63a8ab05ae4a3bed92580e05e7dce3b268b54a7f": {
     "name": "Okex"
+  },
+  "0xafadc4302f07e9460eb4c31ec741c0f3e308ff3a": {
+    "name": "Btxpro"
+  },
+  "0xc168062c9c958e01914c7e3885537541dbb9ed08": {
+    "name": "Btxpro"
   }
 }
