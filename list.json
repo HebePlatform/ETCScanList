@@ -9,9 +9,7 @@
       "email": "hebeblock@gmail.com"
     }
   },
-  "0xcF615be6342aD7A1B52f27cAa705F3F671c14147": {
-    "name": "ETCPool.us"
-},
+
   "0x88d8c3dc6b5324f34e8cf229a93e197048671abd": {
     "name": "Hebe Wallet",
     "symbol": "HEBE",
@@ -56,6 +54,24 @@
       "email": "kngrkingers@gmail.com"
     }
   },
+  "0x1180b6c9581057ffb5f764974ad40105bc23d7f4": {
+    "name": "IAV Swap",
+    "links": {
+      "web": "https://InArgentumVeritas.app",
+      "twitter": "https://twitter.com/ArgentumVeritas",
+      "discord": "https://discord.com/invite/Mh6Mz35G48",
+      "email": "admin@inargentumveritas.app"
+    }
+  },
+  "0x09a9e6d00b07f7c991b98575f75d16811c9c50a4": {
+    "name": "In Argentum Veritas",
+    "links": {
+      "web": "https://InArgentumVeritas.app",
+      "twitter": "https://twitter.com/ArgentumVeritas",
+      "discord": "https://discord.com/invite/Mh6Mz35G48",
+      "email": "admin@inargentumveritas.app"
+    }
+  },
   "0x07c59be1b8a37e615c010013eaa8ef8744a3b99b": {
     "name": "Hebe Token Uncirculated "
   },
@@ -83,22 +99,8 @@
   "0xc168062c9c958e01914c7e3885537541dbb9ed08": {
     "name": "Btxpro"
   },
-  "0x1180B6C9581057ffb5f764974AD40105Bc23D7F4": {
-    "name": "IAV Swap",
-    "links": {
-      "web": "https://InArgentumVeritas.app",
-      "twitter": "https://twitter.com/ArgentumVeritas",
-      "discord": "https://discord.com/invite/Mh6Mz35G48",
-      "email": "admin@inargentumveritas.app"
-    }
-},
-  "0x09a9e6d00b07f7c991b98575f75d16811c9c50a4": {
-     "name": "In Argentum Veritas",
-      "links": {
-      "web": "https://InArgentumVeritas.app",
-      "twitter": "https://twitter.com/ArgentumVeritas",
-      "discord": "https://discord.com/invite/Mh6Mz35G48",
-      "email": "admin@inargentumveritas.app"
-    }
+  "0xcf615be6342ad7a1b52f27caa705f3f671c14147": {
+    "name": "ETCPool.us"
   }
+
 }
