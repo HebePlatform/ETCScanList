@@ -82,7 +82,10 @@
     "name": "Etc Grants Dao"
   },
   "0xd4e36ae112915c9b18700505ee5898b562af5d4d": {
-    "name": "Binance"
+    "name": "Binance 1"
+  },
+  "0x216d44960291e4129435c719217a7ecae8c29927": {
+    "name": "Binance 2"
   },
   "0x66f82becae07aa9ae95bf92aca888ab185ef70c2": {
     "name": "Huobi 1"
@@ -104,6 +107,12 @@
   },
   "0x5e8f0e63e7614c47079a41ad4c37be7def06df5a": {
     "name": "DAO hacker"
+  },
+  "0x59e0ed6e04afd001243a50dceb5d4aa61fbe672c": {
+    "name": "HEBE BuyBack"
+  },
+  "0x5c9deb56b7269cc0e89c944ea3179aaab0e57fc0": {
+    "name": "HEBE Team"
   }
 
 }
