@@ -87,6 +87,9 @@
   "0x216d44960291e4129435c719217a7ecae8c29927": {
     "name": "Binance 2"
   },
+  "0x34ea4138580435b5a521e460035edb19df1938c1": {
+    "name": "Binance 3"
+  },
   "0x66f82becae07aa9ae95bf92aca888ab185ef70c2": {
     "name": "Huobi 1"
   },
@@ -113,6 +116,22 @@
   },
   "0x5c9deb56b7269cc0e89c944ea3179aaab0e57fc0": {
     "name": "HEBE Team"
+  },
+  "0xc882b111a75c0c657fc507c04fbfcd2cc984f071": {
+    "name": "Gate 1"
+  },
+  "0x0d0707963952f2fba59dd06f2b425ace40b492fe": {
+    "name": "Gate 2"
+  },
+  "0x1342a001544b8b7ae4a5d374e33114c66d78bd5f": {
+    "name": "Gatecoin Hacker 2"
+  },
+  "0xd4914762f9bd566bd0882b71af5439c0476d2ff6": {
+    "name": "Gatecoin Hacker 1"
+  },
+  "0x04786aada9deea2150deab7b3b8911c309f5ed90": {
+    "name": "Gatecoin Hacker 4"
   }
+
 
 }
