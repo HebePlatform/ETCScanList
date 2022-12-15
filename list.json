@@ -140,6 +140,12 @@
   },
   "0x97c88e6f1407b4f840579357d32fff32f2854d17": {
     "name": "Bilaxy"
+  },
+  "0x69e6cffca250493510e10c939546d353a557e3e7": {
+    "name": "Coinbase"
+  },
+  "0xb9ee1e551f538a464e8f8c41e9904498505b49b0": {
+    "name": "CoinEx"
   }
 
 }
