@@ -9,7 +9,6 @@
       "email": "hebeblock@gmail.com"
     }
   },
-
   "0x88d8c3dc6b5324f34e8cf229a93e197048671abd": {
     "name": "Hebe Wallet",
     "symbol": "HEBE",
@@ -254,5 +253,35 @@
   },
   "0xc2710f6fa6d4d86f5792d9e0c6710a2194cafa70": {
     "name": "zergpool"
+  },
+  "0x89fbd7b02307a0e78a55872a187f0d66a91e9fc1": {
+    "name": "poolin"
+  },
+  "0x0239da7f7d5af4cff574c507bb6ce18ddc73b875": {
+    "name": "f2pool"
+  },
+  "0x54286566de3b4e14998b27587475334608a7eb97": {
+    "name": "Hiveon sg "
+  },
+  "0x6364c971f636b14fc7fdb5e3ccd0d8c396870328": {
+    "name": "pool.binance.com"
+  },
+  "0x981217f3fcc2cd5128e01bcffaa14f0c7e729bdc": {
+    "name": "AntPool"
+  },
+  "0x35aa26bbfe74714b38ef668e36f986daac80846a": {
+    "name": "2miners_ASIA"
+  },
+  "0x6d5f58ee658e9ed844cb42337b1567d120d8c58a": {
+    "name": "dogpool"
+  },
+  "0xd4b409b5d9323452d6db944c5c4082b0d728b149": {
+    "name": "CrazyPool"
+  },
+  "0x66b64504341874105e989d9a9402d8e2350d48fa": {
+    "name": "Kryptex.com"
+  },
+  "0x3d6be015278c8cf98d71c62bef4960cad2f69eff": {
+    "name": "okminer"
   }
 }
