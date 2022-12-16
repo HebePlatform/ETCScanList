@@ -146,6 +146,113 @@
   },
   "0xb9ee1e551f538a464e8f8c41e9904498505b49b0": {
     "name": "CoinEx"
+  },
+  "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": {
+    "name": "EtherMine"
+  },
+  "0xc91716199ccde49dc4fafaeb68925127ac80443f": {
+    "name": "F2Pool"
+  },
+  "0x9eab4b0fc468a7f5d46228bf5a76cb52370d068d": {
+    "name": "NanoPool"
+  },
+  "0x1c0fa194a9d3b44313dcd849f3c6be6ad270a0a4": {
+    "name": "MiningPoolHub 1"
+  },
+  "0x594a6de78a147371e8288c3a09fa94d673df63e1": {
+    "name": "MiningPoolHub 2"
+  },
+  "0x4c2b4e716883a2c3f6b980b70b577e54b9441060": {
+    "name": "ETCPool PL"
+  },
+  "0x999c2944807874d3677ee3c6065c8a8a92721ac5": {
+    "name": "NinjaPool.jp"
+  },
+  "0xf35074bbd0a9aee46f4ea137971feec024ab704e": {
+    "name": "solopool.org"
+  },
+  "0xa97ed75172773ec705c2c78d999d3203199101bd": {
+    "name": "epool"
+  },
+  "0x87cfd09c483fe65352456bb26c784a0e4c4ba389": {
+    "name": "ArsMine"
+  },
+  "0xeda79f0735a56510876a497e1c105916666b0199": {
+    "name": "Comining"
+  },
+  "0xd3bfd58a31ddeb2fdd2bc212e38c41725bc93ccd": {
+    "name": "EtherDig HVPPS"
+  },
+  "0xa6e43e5d497ce1f4d28b4270630e97308eda8b3e": {
+    "name": "2miners"
+  },
+  "0x3053e82fd68d6d7fa2826ccb5e99b984d10740e4": {
+    "name": "ezil"
+  },
+  "0xe7e6c88ad1bab6508a251b7995f44fb1c5e3dcf7": {
+    "name": "hiveon"
+  },
+  "0x8b167bee2a5135b23c52550098ef39a47a0e3de9": {
+    "name": "btc.com"
+  },
+  "0x5253b33c1313a4449bc5304a9c55b4cc2bdf2872": {
+    "name": "k1pool"
+  },
+  "0x6e4f3f1c81b7016c3deb8b2d434209b926d21aa2": {
+    "name": "ViaBTC"
+  },
+  "0x3f5dd6ae93fc6413c22e02651badb218018a091a": {
+    "name": "MolePool_SOLO"
+  },
+  "0x0c5466b30b8ead83fe534f96c2f18a308804570d": {
+    "name": "OpenEthereumPool"
+  },
+  "0x0ccfdc08b61c8b9281c312df226f9958707ea5ef": {
+    "name": "flexpool"
+  },
+  "0xbcf9af410cf09bdf81a73fe5def32457b0e469ac": {
+    "name": "herominers"
+  },
+  "0xfad4a236c87880035497043f24ea58d73c3e50de": {
+    "name": "GTeh Pool"
+  },
+  "0x2021f0afb70029528a0a6bc0a054d82dc371fa73": {
+    "name": "666pool"
+  },
+  "0xdb49ee210f6f417afb3ceb6e35643f51f9267cd0": {
+    "name": "cominers"
+  },
+  "0x9e3d391cd779b241f97c9c5b7d5e99dc6c23da10": {
+    "name": "digipools"
+  },
+  "0x951e35dec31b9d026adf496264036085e0ee0708": {
+    "name": "wattpool"
+  },
+  "0x39707522d932b76756c1e26ba6815d34e82af93c": {
+    "name": "pool-moscow.ru"
+  },
+  "0x0d106735f542c7f8751d5959f4504bf886284056": {
+    "name": "e4pool solo"
+  },
+  "0x69789efa977b60552716dbd74bc0dc69b20af576": {
+    "name": "e4pool"
+  },
+  "0x0992f223b1d94403c4055c7ec2c6a8c648d49a11": {
+    "name": "coolpool"
+  },
+  "0x0dc2c9a71703d61e49fd4425bb7d09165d8788e8": {
+    "name": "multitrust"
+  },
+  "0x03a77f3fa23811218bfcf25f61c1454f941a5bfc": {
+    "name": "magicpool"
+  },
+  "0x18fbe039615eb8e5abee541698cc52e72b30fde0": {
+    "name": "skypool"
+  },
+  "0x9036706ba6d348375de981c2af31734d0bc114c3": {
+    "name": "minerall"
+  },
+  "0xc2710f6fa6d4d86f5792d9e0c6710a2194cafa70": {
+    "name": "zergpool"
   }
-
 }
