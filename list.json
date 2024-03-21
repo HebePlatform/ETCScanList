@@ -289,5 +289,17 @@
   },
   "0x3d6be015278c8cf98d71c62bef4960cad2f69eff": {
     "name": "okminer"
+  },
+  "0x591a664B9e06a9E0237E06EAc2F620eB692051Ab": {
+    "name": "emilk rug"
+  },
+  "0x6cd057cd09F0Ea33B02D2bEa6472F84ddb36A1d7": {
+    "name": "emilk rug"
+  },
+  "0x0316d948ec2d20e0cc86d905e11cb95e3f031c22": {
+    "name": "f2pool"
+  },
+  "0x000000000000000000000000000000000000dead": {
+    "name": "dead"
   }
 }
